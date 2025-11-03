@@ -4,7 +4,7 @@
 </div>
 
 ## Demo Output Video Link:
-- [https://drive.google.com/file/d/1J374V4aTZCu4146meCFYgbi2kj1TS3JT/view?usp=sharing]
+- https://drive.google.com/file/d/1J374V4aTZCu4146meCFYgbi2kj1TS3JT/view?usp=sharing
 
 ## Table of Contents
 
